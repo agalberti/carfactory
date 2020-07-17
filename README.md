@@ -13,8 +13,6 @@ For example:
 
 `GET /cars/{id}`
 
-http://localhost:5000/cars/{id}
-
 For example using [cURL] you can list the details for a specific car with:
 
 	$ curl http://localhost:5000/cars/2
